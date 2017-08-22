@@ -1,0 +1,10 @@
+9sort/.vs
+9sort/Debug
+9sort/9sort/Debug
+
+
+*.sln
+*.db
+*.filters
+*.vcxproj
+
