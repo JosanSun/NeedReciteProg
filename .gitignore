@@ -1,7 +1,6 @@
-9sort/.vs
-9sort/Debug
-9sort/9sort/Debug
-
+**/.vs
+**/Debug
+**/Release
 
 *.sln
 *.db
